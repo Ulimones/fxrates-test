@@ -1,0 +1,52 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto');
+
+.title{
+    margin-bottom: -10px;
+    font-size:35px;
+    font-family: 'Roboto';
+    background:  linear-gradient(-45deg, #F85494, #F97574, #EC8E71);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.rig{
+    text-align: right;
+}
+
+.result{
+    font-size: 80px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: revert;
+    font-weight: bold;
+    text-shadow: 1px .02px 2px  black;
+}
+
+.bootstrap-select.btn-group .dropdown-menu li a:hover {
+    color: whitesmoke !important;
+    background: #bf5279 !important;
+}
+    
+select, input{
+    background: #6b7aaf;
+    border-color:#717daa;
+    color:white;
+ }
+
+.card{
+    border-radius: 15px;
+ }
+
+ .card-graph{
+     background:#717daa;
+     border-radius: 12px;
+ }
+
+ .btn-confirm{
+    margin-top: 10%;
+    background-color:#252D4C;
+    color: white;
+    border-radius: 10px !important;
+    width: 100%;
+  }
